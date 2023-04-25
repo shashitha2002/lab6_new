@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1682404205 source:c:\users\user\documents\c++\lab6\main.cpp
+	"circle.h"
+	<iostream>
+
+1682404613 c:\users\user\documents\c++\lab6\circle.h
+
