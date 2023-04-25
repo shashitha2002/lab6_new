@@ -1,7 +1,27 @@
 # depslib dependency file v1.0
-1682404205 source:c:\users\user\documents\c++\lab6\main.cpp
+1682406004 source:c:\users\user\documents\c++\lab6\main.cpp
 	"circle.h"
+	"rectangleX.h"
 	<iostream>
 
 1682404613 c:\users\user\documents\c++\lab6\circle.h
+
+1682404575 source:c:\users\user\documents\c++\lab6\src\circle.cpp
+	"circle.h"
+	<iostream>
+
+1682404610 c:\users\user\documents\c++\lab6\include\circle.h
+
+1682406021 c:\users\user\documents\c++\lab6\include\rectanglex.h
+
+1682406042 source:c:\users\user\documents\c++\lab6\src\rectanglex.cpp
+	"rectangleX.h"
+	<iostream>
+
+1682406563 source:c:\users\user\documents\c++\lab6\src\square.cpp
+	"square.h"
+	<math.h>
+	<iostream>
+
+1682406328 c:\users\user\documents\c++\lab6\include\square.h
 
